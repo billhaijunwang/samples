@@ -3,7 +3,7 @@
 This repo contains all the sample code that is part of any topic under
 the .NET documentation. There are several different projects that
 are organized in sub-folders. These sub-folders are organized similar
-to the organization of the docs for .NET.
+to the organization of the docs for .NET.changes
 
 Some of the articles will have more than one sample associated with them. 
 
